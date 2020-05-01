@@ -1,0 +1,11 @@
+User-agent: anothercrawler
+<meta name="Googlebot-News" content="noindex, nofollow">
+<meta name="Googlebot-Image" content="noindex, nofollow">
+<meta name="AdsBot-Google" content="noindex, nofollow">
+<meta name="Googlebot" content="noindex, nofollow">
+<meta name="Googlebot-Mobile" content="noindex, nofollow">
+User-agent: *
+Disallow: /
+<meta name="robots" content="noindex, nofollow">
+
+
